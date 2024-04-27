@@ -1,7 +1,11 @@
 # Arelith Build Calculator
  
-A versatile character builder based on [Kamiryn's original Character Build Calculator for Neverwinter Nights](https://neverwintervault.org/project/nwn1/other/tool/characterbuildcalculator-cbc) that includes most character classes, paths, (sub-)races, gifts and custom game mechanics available on the [Arelith persistent role playing server](https://nwnarelith.com), all integrated in an overhauled Microsoft Excel spreadsheet. There is also a gear calculator that will let you plan your characters' equipment and include the resulting bonuses in the build calculator's output.
+A versatile character builder for Microsoft Excel, based on [Kamiryn's Character Build Calculator](https://neverwintervault.org/project/nwn1/other/tool/characterbuildcalculator-cbc) (V2) for [Neverwinter Nights](https://www.beamdog.com/games/neverwinter-nights-enhanced). Tailored for [Arelith](https://nwnarelith.com), a vibrant roleplaying community in the Forgotten Realms setting, it features most of the server's custom mechanics, such as character classes, paths, (sub-)races and gifts, all integrated in a redesigned UI.
 
-![View Screenshot](https://github.com/Kalopsia-dev/ARE_BuildCalc/blob/master/screenshot.png)
+![Build Calculator Screenshot](https://github.com/Kalopsia-dev/ARE_BuildCalc/blob/master/build-calculator.png)
 
-Please note that this tool is being developed exclusively in Microsoft Excel. Other spreadsheet software may or may not work as expected.
+Arelith Build Calculator also supports a unique gear calculator that lets users specify their characters' equipment and include relevant item properties in various calculations.
+
+![Gear Calculator Screenshot](https://github.com/Kalopsia-dev/ARE_BuildCalc/blob/master/gear-calculator.png)
+
+Please note that this tool is being developed and tested exclusively in Microsoft Excel. Other spreadsheet software may or may not work as expected.
